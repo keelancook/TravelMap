@@ -72,7 +72,7 @@
 -
   index: 'map_15'
   country_name: 'BELGIUM'
-  visited: false
+  visited: true
 
 -
   index: 'map_16'
@@ -227,7 +227,7 @@
 -
   index: 'map_46'
   country_name: 'DOMINICAN REPUBLIC'
-  visited: false
+  visited: true
 
 -
   index: 'map_47'
@@ -317,12 +317,12 @@
 -
   index: 'map_64'
   country_name: 'GUATEMALA'
-  visited: false
+  visited: true
 
 -
   index: 'map_65'
   country_name: 'GUINEA'
-  visited: false
+  visited: true
 
 -
   index: 'map_66'
@@ -337,7 +337,7 @@
 -
   index: 'map_68'
   country_name: 'HAITI'
-  visited: false
+  visited: true
 
 -
   index: 'map_69'
@@ -357,7 +357,7 @@
 -
   index: 'map_72'
   country_name: 'INDIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_73'
@@ -397,7 +397,7 @@
 -
   index: 'map_80'
   country_name: 'JAPAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_81'
@@ -522,7 +522,7 @@
 -
   index: 'map_105'
   country_name: 'MEXICO'
-  visited: false
+  visited: true
 
 -
   index: 'map_106'
@@ -542,7 +542,7 @@
 -
   index: 'map_109'
   country_name: 'MOROCCO'
-  visited: false
+  visited: true
 
 -
   index: 'map_110'
@@ -662,7 +662,7 @@
 -
   index: 'map_133'
   country_name: 'ROMANIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_134'
@@ -682,7 +682,7 @@
 -
   index: 'map_137'
   country_name: 'SENEGAL'
-  visited: false
+  visited: true
 
 -
   index: 'map_138'
@@ -697,7 +697,7 @@
 -
   index: 'map_140'
   country_name: 'SIERRA LEONE'
-  visited: false
+  visited: true
 
 -
   index: 'map_141'
@@ -802,12 +802,12 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_162'
   country_name: 'THE GAMBIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_163'
@@ -827,7 +827,7 @@
 -
   index: 'map_166'
   country_name: 'TURKEY'
-  visited: false
+  visited: true
 
 -
   index: 'map_167'
@@ -852,7 +852,7 @@
 -
   index: 'map_171'
   country_name: 'UNITED KINGDOM'
-  visited: true
+  visited: false
 
 -
   index: 'map_172'
